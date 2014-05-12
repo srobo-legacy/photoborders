@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
@@ -22,18 +23,18 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="474.17269"
-     inkscape:cy="426.00575"
+     inkscape:zoom="0.85069842"
+     inkscape:cx="559.00666"
+     inkscape:cy="325.02705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="708"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1535"
+     inkscape:window-height="780"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -54,52 +55,40 @@
      transform="translate(0,-308.2677)">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="536.43835"
-       y="400.93359"
+       style="font-size:50px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile"
+       x="584.32324"
+       y="400.86008"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="536.43835"
-         y="400.93359"
+         x="526.1811"
+         y="400.86008"
          id="tspan3001">STUDENT ROBOTICS 2014</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="526.18109"
-       y="951.79578"
+       style="font-size:54px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile"
+       x="526.1811"
+       y="971.70679"
        id="text2989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2991"
-         x="526.18109"
-         y="951.79578">School Name</tspan></text>
+         x="526.1811"
+         y="971.70679">School Name</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile"
        x="526.18109"
-       y="1021.7958"
+       y="1006.9464"
        id="text2993"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2995"
          x="526.18109"
-         y="1021.7958">Team Name</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="748.57141"
-       y="601.23737"
-       id="text3037"
-       sodipodi:linespacing="125%"
-       transform="translate(0,308.2677)"><tspan
-         sodipodi:role="line"
-         id="tspan3039"
-         x="748.57141"
-         y="601.23737" /></text>
+         y="1006.9464">Team Name</tspan></text>
     <g
        id="g3282"
-       transform="matrix(0.28380444,0,0,0.28380444,156.32508,233.87193)">
+       transform="matrix(0.25448573,0,0,0.25448573,189.74088,250.76033)">
       <path
          id="path3284"
          transform="translate(-168.93846,-22.060915)"
@@ -115,12 +104,34 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3297"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Eurostile;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
          id="flowRegion3299"><rect
            id="rect3301"
            width="100"
            height="271.42856"
            x="282.85715"
            y="212.66591" /></flowRegion><flowPara
-         id="flowPara3303"></flowPara></flowRoot>  </g>
+         id="flowPara3303" /></flowRoot>    <rect
+       style="fill:#0d1f61;fill-opacity:1;fill-rule:evenodd;stroke:#0d1f61;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3062"
+       width="679.41174"
+       height="450"
+       x="189.68349"
+       y="452.36218">
+      <title
+         id="title3768">Border</title>
+    </rect>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="photo">
+    <image
+       y="144.09448"
+       x="189.68349"
+       id="image3059"
+       xlink:href="file:///home/tyler/teamimagegen/photos/HSO.JPG"
+       height="450"
+       width="679.41174" />
+  </g>
 </svg>
